@@ -1,0 +1,9 @@
+{
+  "name": "tech.knode.utility",
+  "description": "Knode utility extension",
+  "path": "D:\\0_Dev\\Tools\\ChromeExtensionHost\\CEHost\\bin\\Debug\\CEHost.exe",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://jciifdleglmopilbmdlnaeapibclcooj/"
+  ]
+}
